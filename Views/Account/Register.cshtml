@@ -1,0 +1,68 @@
+﻿@using StudentProject.Requests
+@{
+    Layout = "_loLayout";
+}
+@model Registerval
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h1 class="text-center mb-4">Sign Up</h1>
+                    <form method="post" asp-action="Register" asp-controller="Account">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Name" class="form-label">Full Name</label>
+                                    <input class="form-control" asp-for="Name" />
+                                    <span class="text-danger" asp-validation-for="Name"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Email" class="form-label">Email</label>
+                                    <input class="form-control" asp-for="Email" />
+                                    <span class="text-danger" asp-validation-for="Email"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Address" class="form-label">Address</label>
+                                    <input class="form-control" asp-for="Address" />
+                                    <span class="text-danger" asp-validation-for="Address"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Phone" class="form-label">Phone</label>
+                                    <input class="form-control" asp-for="Phone" />
+                                    <span class="text-danger" asp-validation-for="Phone"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Password" class="form-label">Password</label>
+                                    <input class="form-control" asp-for="Password" type="password" />
+                                    <span class="text-danger" asp-validation-for="Password"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Is_Admin" class="form-label">Is Admin</label>
+                                    <span class="text-danger" asp-validation-for="Is_Admin" style="margin-right: 30px;"></span>
+                                    <input class="form-check-input" asp-for="Is_Admin" type="checkbox" />
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-success btn-lg mb-1">Register</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

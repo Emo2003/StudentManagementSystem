@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form action="/Expense/UpdateDB" style="max-width: 600px; margin: auto; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <input hidden type="number" name="id" value="@Model.ID" />
+    <div class="mb-3" style="margin-bottom: 1rem;">
+        <label for="amount" class="form-label" style="display: block; margin-bottom: .5rem; font-weight: bold;">PayementAmount</label>
+        <input type="number" class="form-control" id="amount" name="Amount" value="@Model.Amount" style="width: 100%; padding: .5rem; border: 1px solid #ccc; border-radius: 5px;">
+    </div>
+    <div class="mb-3" style="margin-bottom: 1rem;">
+        <label for="date_of_payment" class="form-label" style="display: block; margin-bottom: .5rem; font-weight: bold;">PayementAmount</label>
+        <input type="date" class="form-control" id="date_of_payment" name="Date_Of_Payment" value="@Model.Date_Of_Payment" style="width: 100%; padding: .5rem; border: 1px solid #ccc; border-radius: 5px;">
+    </div>
+
+    <div class="mb-3" style="margin-bottom: 1rem;">
+        <label for="stu_Id" class="form-label" style="display: block; margin-bottom: .5rem; font-weight: bold;">StudentName</label>
+        <select id="stu_Id" name="Stu_Id" class="form-select">
+            @foreach (Student student in ViewBag.students)
+            {
+                if (student.ID == Model.Stu_Id)
+                {
+                    <option selected value="@student.ID">@student.Name</option>
+                }
+                else
+                {
+                    <option value="@student.ID">@student.Name</option>
+                }
+            }
+        </select>
+    </div>
+
+
+
+
+    <button type="submit" class="btn btn-primary" style="padding: .5rem 1rem; border: none; border-radius: 5px; background-color: #007bff; color: white; font-weight: bold;">Update</button>
+</form>

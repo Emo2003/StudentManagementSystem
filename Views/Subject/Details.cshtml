@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div style="display: flex; justify-content: center; align-items: center; height: 130vh;">
+    <div class="card" style="width: 18rem; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden;">
+        <img src="https://img.freepik.com/premium-vector/man-avatar-user-icon-man-avatar_645658-3187.jpg" class="card-img-top" alt="User Avatar" style="border-bottom: 1px solid #ddd;">
+        <div class="card-body" style="padding: 15px;">
+            <h5 class="card-title" style="font-size: 1.25rem; font-weight: bold; margin-bottom: 10px;">@Model.Name</h5>
+            <p class="card-text" style="color: #555;"></p>
+        </div>
+        <ul class="list-group list-group-flush" style="border-top: 1px solid #ddd;">
+            <li class="list-group-item" style="padding: 10px 15px;"><b>DoctorName:</b> @Model.Doctor?.Name</li>
+
+
+        </ul>
+        <div class="card-body" style="padding: 15px;">
+            <a href="/Subject/Index" class="card-link" style="color: #007bff; text-decoration: none;">Back To List</a>
+        </div>
+    </div>
+</div>

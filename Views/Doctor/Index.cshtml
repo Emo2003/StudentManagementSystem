@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    int i = 1;
+}
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <p style="color: black; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; font-size: 1.2em;">
+        <b># Data About Doctor:</b>
+    </p>
+    <a href="/Doctor/AddNew" style="text-decoration: none; color: white; background-color: #007bff; padding: 10px 20px; border-radius: 15px; margin-left: 50px;">
+        <b>Add New Doctor</b>
+    </a>
+</div>
+
+
+<table class="table table-bordered border-primary" style="width: 100%; border-collapse: collapse; margin-bottom: 20px; background-color: #f9f9f9; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    <thead style="background-color: #343a40; color: #fff;">
+        <tr>
+            <th scope="col" style="padding: 10px; border: 1px solid #dee2e6;">#</th>
+            <th scope="col" style="padding: 10px; border: 1px solid #dee2e6;">Name</th>
+            <th scope="col" style="padding: 10px; border: 1px solid #dee2e6;">Address</th>
+            <th scope="col" style="padding: 10px; border: 1px solid #dee2e6;">Handle</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Doctor doctor in Model)
+        {
+            <tr>
+                <th scope="row" style="padding: 10px; border: 1px solid #dee2e6; background-color: #e9ecef;">@(i++)</th>
+                <td style="padding: 10px; border: 1px solid #dee2e6;">@doctor.Name</td>
+                <td style="padding: 10px; border: 1px solid #dee2e6;">@doctor.Address</td>
+                <td style="padding: 10px; border: 1px solid #dee2e6;">
+                    <a href="/Doctor/Details/@doctor.ID" style="text-decoration: none; color: white;background-color: #007bff; padding: 7px 7px; border-radius: 10px; display: inline-block; margin-bottom: 5px;"><b>Details</b></a>
+                    <a href="/Doctor/Update/@doctor.ID" style="text-decoration: none;color: white;background-color: #007bff; padding: 7px 7px; border-radius: 10px; display: inline-block; "><b>Edit</b></a>
+                    <a href="/Doctor/Delete/@doctor.ID" style="text-decoration: none; color: white;background-color: #007bff; padding: 7px 7px; border-radius: 10px; display: inline-block; "><b>Delete</b></a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@if (TempData["Action"] != null)
+{
+    <div style="margin-top: 20px; padding: 10px; background-color: #d4edda; border: 1px solid #c3e6cb; color: #155724;">
+        @TempData["Action"]
+    </div>
+}

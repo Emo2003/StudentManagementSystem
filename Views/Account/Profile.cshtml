@@ -1,0 +1,29 @@
+﻿
+
+@model StudentProject.Models.Admin
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm" style="border-radius: 10px; overflow: hidden;">
+                <div class="card-body" style="background-color: #f8f9fa; padding: 30px;">
+                    <h1 class="text-center mb-4" style="color: #007bff; font-weight: bold;">Admin Profile</h1>
+                    <div class="row">
+                        <div class="col-md-4 text-center">
+                            <img src="https://p.kindpng.com/picc/s/705-7057285_profile-icon-png-black-download-large-file-transfer.png"
+                                 style="width: 170px; height: 170px; border-radius: 70%; margin-bottom: 30px;" />
+                        </div>
+                        <div class="col-md-8">
+                            <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                                <p class="mb-3" style="color: #393f81; font-size: 18px;"><strong>Name:</strong> @Model.Name</p>
+                                <p class="mb-3" style="color: #393f81; font-size: 18px;"><strong>Email:</strong> @Model.Email</p>
+                                <p class="mb-3" style="color: #393f81; font-size: 18px;"><strong>Phone:</strong> @Model.Phone</p>
+                                <p class="mb-3" style="color: #393f81; font-size: 18px;"><strong>Address:</strong> @Model.Address</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

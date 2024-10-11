@@ -1,0 +1,1365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_animation.scss",
+      "PackagePath": "staticwebassets\\css\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_background.scss",
+      "PackagePath": "staticwebassets\\css\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_badge.scss",
+      "PackagePath": "staticwebassets\\css\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_border.scss",
+      "PackagePath": "staticwebassets\\css\\_border.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\css\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_button-group.scss",
+      "PackagePath": "staticwebassets\\css\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_card.scss",
+      "PackagePath": "staticwebassets\\css\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_cards.scss",
+      "PackagePath": "staticwebassets\\css\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_carousel.scss",
+      "PackagePath": "staticwebassets\\css\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_charts.scss",
+      "PackagePath": "staticwebassets\\css\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_close.scss",
+      "PackagePath": "staticwebassets\\css\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_code.scss",
+      "PackagePath": "staticwebassets\\css\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\css\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_display.scss",
+      "PackagePath": "staticwebassets\\css\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\css\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\css\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_error.scss",
+      "PackagePath": "staticwebassets\\css\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_functions.scss",
+      "PackagePath": "staticwebassets\\css\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_global.scss",
+      "PackagePath": "staticwebassets\\css\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_images.scss",
+      "PackagePath": "staticwebassets\\css\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_input-group.scss",
+      "PackagePath": "staticwebassets\\css\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\css\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_login.scss",
+      "PackagePath": "staticwebassets\\css\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_modal.scss",
+      "PackagePath": "staticwebassets\\css\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_nav.scss",
+      "PackagePath": "staticwebassets\\css\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_navbar.scss",
+      "PackagePath": "staticwebassets\\css\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_navs.scss",
+      "PackagePath": "staticwebassets\\css\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_popover.scss",
+      "PackagePath": "staticwebassets\\css\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_print.scss",
+      "PackagePath": "staticwebassets\\css\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_progress.scss",
+      "PackagePath": "staticwebassets\\css\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_reboot.scss",
+      "PackagePath": "staticwebassets\\css\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_root.scss",
+      "PackagePath": "staticwebassets\\css\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_rotate.scss",
+      "PackagePath": "staticwebassets\\css\\_rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\css\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_spinners.scss",
+      "PackagePath": "staticwebassets\\css\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_tables.scss",
+      "PackagePath": "staticwebassets\\css\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_text.scss",
+      "PackagePath": "staticwebassets\\css\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_toasts.scss",
+      "PackagePath": "staticwebassets\\css\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\css\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_topbar.scss",
+      "PackagePath": "staticwebassets\\css\\_topbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_transitions.scss",
+      "PackagePath": "staticwebassets\\css\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_type.scss",
+      "PackagePath": "staticwebassets\\css\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_utilities.scss",
+      "PackagePath": "staticwebassets\\css\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\css\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\sb-admin-2.scss",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\css\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\css\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\css\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\body-bg.jpg",
+      "PackagePath": "staticwebassets\\imge\\body-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\bus.png",
+      "PackagePath": "staticwebassets\\imge\\bus.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\hero-bg.png",
+      "PackagePath": "staticwebassets\\imge\\hero-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\hero.png",
+      "PackagePath": "staticwebassets\\imge\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\kids.jpg",
+      "PackagePath": "staticwebassets\\imge\\kids.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\kidss.jpg",
+      "PackagePath": "staticwebassets\\imge\\kidss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\logo.png",
+      "PackagePath": "staticwebassets\\imge\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\menu.png",
+      "PackagePath": "staticwebassets\\imge\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\next.png",
+      "PackagePath": "staticwebassets\\imge\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\prev.png",
+      "PackagePath": "staticwebassets\\imge\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\right-arrow.png",
+      "PackagePath": "staticwebassets\\imge\\right-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\search-icon-mobile.png",
+      "PackagePath": "staticwebassets\\imge\\search-icon-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\search-icon.png",
+      "PackagePath": "staticwebassets\\imge\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\shape-1.png",
+      "PackagePath": "staticwebassets\\imge\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\shape-2.png",
+      "PackagePath": "staticwebassets\\imge\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\student.png",
+      "PackagePath": "staticwebassets\\imge\\student.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\teacher-1.jpg",
+      "PackagePath": "staticwebassets\\imge\\teacher-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\teacher-2.jpg",
+      "PackagePath": "staticwebassets\\imge\\teacher-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\teacher-3.jpg",
+      "PackagePath": "staticwebassets\\imge\\teacher-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imge\\teacher-4.jpg",
+      "PackagePath": "staticwebassets\\imge\\teacher-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\about.jpg",
+      "PackagePath": "staticwebassets\\imges\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\imges\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\imges\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\imges\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\imges\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\imges\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\imges\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\course-1.jpg",
+      "PackagePath": "staticwebassets\\imges\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\course-2.jpg",
+      "PackagePath": "staticwebassets\\imges\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\course-3.jpg",
+      "PackagePath": "staticwebassets\\imges\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\team-1.jpg",
+      "PackagePath": "staticwebassets\\imges\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\team-2.jpg",
+      "PackagePath": "staticwebassets\\imges\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\team-3.jpg",
+      "PackagePath": "staticwebassets\\imges\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\team-4.jpg",
+      "PackagePath": "staticwebassets\\imges\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\imges\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\imges\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\imges\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\imges\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\imges\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\gulpfile.js",
+      "PackagePath": "staticwebassets\\js\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\package-lock.json",
+      "PackagePath": "staticwebassets\\js\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\package.json",
+      "PackagePath": "staticwebassets\\js\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\libs\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\libs\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\libs\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\libs\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\libs\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\libs\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\libs\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\libs\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\libs\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\libs\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\11\\source\\repos\\StudentProject\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentProject.props",
+      "PackagePath": "build\\StudentProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentProject.props",
+      "PackagePath": "buildMultiTargeting\\StudentProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentProject.props",
+      "PackagePath": "buildTransitive\\StudentProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+    <!-- progress barstle -->
+    <link rel="stylesheet" href="/css/css-circular-prog-bar.css">
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- font wesome stylesheet -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <!-- Custom styles for this template -->
+    <link href="/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="/css/responsive.css" rel="stylesheet" />
+
+
+
+
+    <link rel="stylesheet" href="/css/css-circular-prog-bar.css">
+
+
+</head>
+<body>
+
+    <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; padding: 50px; background-color: #f7f7f7; border-radius: 20px; box-shadow: 0 0 10px rgba(0, 0, 1, 0.1);" class="hero-container container">
+        <div style="width: 50%; padding: 30px; background-color: #fff; border-radius: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" class="hero-detail-box">
+            <h3 style="font-size: 24px; font-weight: bold; margin-bottom: 10px; text-align: center; color: #333;">
+                <span style="font-size: 18px; color: #666;">Welcome to</span><br>
+                <span style="font-size: 24px; color: #333;">Best Educations</span>
+            </h3>
+            <h1 style="font-size: 36px; font-weight: bold; margin-bottom: 20px; color: #333;">College</h1>
+            <p style="font-size: 16px; color: #999; margin-bottom: 20px;">This College Makes You Good and Intelligant </p>
+        </div>
+        <div style="width: 70%; padding: 20px;" class="hero-img-container">
+            <div>
+                <img style="width: 100%; height: 400px; object-fit:cover; border-radius: 10px;" src="https://importanceoftechnology.net/wp-content/uploads/2020/10/How-Technology-Impacts-College-Education.jpg" alt="website template image" class="img-fluid hero-image">
+            </div>
+        </div>
+    </div>
+  
+
+
+    </section>
+    <!-- footer section -->
+
+    <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.js"></script>
+
+    <script>
+        // This example adds a marker to indicate the position of Bondi Beach in Sydney,
+        // Australia.
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 11,
+                center: {
+                    lat: 40.645037,
+                    lng: -73.880224
+                },
+            });
+
+            var image = '/imge/maps-and-flags.png';
+            var beachMarker = new google.maps.Marker({
+                position: {
+                    lat: 40.645037,
+                    lng: -73.880224
+                },
+                map: map,
+                icon: image
+            });
+        }
+    </script>
+    <!-- google map js -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap">
+    </script>
+</body>

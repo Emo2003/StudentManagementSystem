@@ -1,0 +1,43 @@
+﻿@using StudentProject.Requests
+
+@{
+    Layout = "_loLayout";
+}
+@model Loginval
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h1 class="text-center mb-4">Login Form</h1>
+                    <form method="post" asp-action="Login" asp-controller="Account">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSni4W_ssx3U1KqS7a7wY_Q4NVU2hW3CP-1jA&s"
+                                     alt="login form" class="img-fluid" style="border-radius: 1rem 0 0 1rem;" />
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group mb-3">
+                                    <label asp-for="Email" class="form-label" style="font-weight: bold;">Email</label>
+                                    <input class="form-control" asp-for="Email" type="email" style="padding: .5rem; border: 1px solid #ccc; border-radius: 5px;">
+                                    <span class="text-danger" asp-validation-for="Email"></span>
+                                </div>
+                                <div class="form-group mb-3">
+                                    <label asp-for="Password" class="form-label" style="font-weight: bold;">Password</label>
+                                    <input class="form-control" asp-for="Password" type="password" style="padding: .5rem; border: 1px solid #ccc; border-radius: 5px;">
+                                    <span class="text-danger" asp-validation-for="Password"></span>
+                                </div>
+                                <button type="submit" class="btn btn-primary mt-3" style="padding: .5rem 1rem; border: none; border-radius: 5px; background-color: #007bff; color: white; font-weight: bold;">Submit</button>
+                                <p class="mb-5 pb-lg-2" style="color: #393f81;">
+                                    Don't have an account? <a href="@Url.Action("Register", "Account")" style="color: #007bff; font-weight: bold;">Register Here</a>
+                                </p>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
